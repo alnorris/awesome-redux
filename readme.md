@@ -48,6 +48,7 @@
  - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
  - [redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
  - [redux-transducers](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
+ - [redux-actiontyper](https://github.com/alnorris/redux-actiontyper) - Helper to create less verbose action types for Redux.
 
 
 ### Store Persistence
